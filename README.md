@@ -205,7 +205,9 @@ ReadNora provides an authentication flow that allows users to access their own c
 
 > Add your login screenshot here.
 
-![ReadNora Login](screenshots/login.png)
+<img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/117b3cce-5b15-4b26-a89f-126041e54a15" />
+<img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/9c0da6a4-27ed-4537-9c49-b012e351619f" />
+
 
 ---
 
@@ -215,7 +217,8 @@ After logging in, users can upload a PDF document and prepare it for AI-powered 
 
 > Add your PDF upload screenshot here.
 
-![ReadNora PDF Upload](screenshots/upload.png)
+<img width="1366" height="768" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/2b5587bc-fdb4-4c5e-a902-1fe54aa3ccd7" />
+
 
 ---
 
@@ -227,7 +230,8 @@ The system retrieves relevant information from the PDF and uses it as context fo
 
 > Add your chat screenshot here.
 
-![ReadNora AI Chat](screenshots/chat.png)
+
+
 
 ---
 
@@ -239,7 +243,7 @@ The RAG pipeline first searches the uploaded document for relevant information a
 
 > Add your answer/result screenshot here.
 
-![ReadNora Answer](screenshots/answer.png)
+<img width="1366" height="768" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/f49865a4-45c4-4322-b9fa-74146f970d27" />
 
 ---
 
@@ -251,7 +255,7 @@ This allows multiple conversations to remain separate while new messages can con
 
 > Add your chat history screenshot here.
 
-![ReadNora Chat History](screenshots/history.png)
+<img width="1366" height="768" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/3582361d-ed6a-481c-9f73-603f3a8d027d" />
 
 ---
 
